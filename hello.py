@@ -2,3 +2,5 @@
 # @Author    :YS
 # @FileName  :hello.py
 # @CreateTime:2024/11/21 05:59
+
+print("hello world")
